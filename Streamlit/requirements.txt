@@ -7,5 +7,5 @@ matplotlib==3.3.4
 keras==2.6.0
 Keras-Preprocessing==1.1.2
 lime==0.2.0.1
-numpy==1.19.5            # ⬅ Moved here
-scikit-image==0.17.2
+numpy==1.19.5
+scikit-image==0.18.3
