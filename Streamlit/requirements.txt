@@ -9,3 +9,4 @@ Keras-Preprocessing==1.1.2
 lime==0.2.0.1
 numpy==1.24.3
 scikit-image==0.19.3
+altair>=4.2.0,<5
